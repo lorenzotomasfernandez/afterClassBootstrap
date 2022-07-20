@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+
+nav img{
+    width: 60px;
+    height: 60px;
+}
+
+form input{
+    padding: 6px;
+    border-radius: 10px;
+}
